@@ -1,2 +1,2 @@
 # javascript-game
-Game created with Javascript
+"Rock, Paper, Scissors" game created and completed with HTML and Javascript

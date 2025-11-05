@@ -88,7 +88,7 @@ function checkWinner() {
 }
 function hideChoice(){
   let hideChoice = choice;
-  hideChoice = choice.style.visibility = "hidden";
+  hideChoice.style.visibility = "hidden";
 }
 function showChoice(){
   let showChoice = choice;
